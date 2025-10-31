@@ -190,13 +190,13 @@ You need to run both backend and frontend servers simultaneously:
 
 **Terminal 1 (Backend):**
 ```bash
-cd "c:\Users\SAMEER\Desktop\Backend projects\Posting App\backend"
+cd "c:\Users\username\Desktop\Posting App\backend"
 npm start
 ```
 
 **Terminal 2 (Frontend):**
 ```bash
-cd "c:\Users\SAMEER\Desktop\Backend projects\Posting App\frontend"
+cd "c:\Users\username\Desktop\\Posting App\frontend"
 npm run dev
 ```
 
